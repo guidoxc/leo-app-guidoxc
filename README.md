@@ -2,7 +2,8 @@
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
-Alan Massive Liar#0818
+alanmassiveliar
+(old Discord handle is: Alan Massive Liar#0818)
 
 A standard game of Tic-Tac-Toe in Leo.
 
